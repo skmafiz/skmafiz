@@ -17,7 +17,7 @@
 
 - 📫 How to reach me [sk-mofiz-hossain/linkedin](https://www.linkedin.com/in/sk-mofiz-hossain-80a47022b/)
 
-- 📄 Know about my experiences [sk-mofiz-hossain.netlify.app/](https://sk-mofiz-hossain.netlify.app/)
+- 📄 Know about my experiences [sk-mofiz-hossain.netlify.app](https://sk-mofiz-hossain.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
