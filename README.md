@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on [Web Development, Cloud, AI, IoT, Back-end Development,](https://sk-mofiz-hossain.netlify.app/)
 
-- 🌱 I’m currently learning **Python, java**
-
-- 👯 I’m looking to collaborate on [IoT Based Cost Effective Drone for Smart Farming](https://sk-mofiz-hossain.netlify.app/)
+- 🌱 I’m currently learning **Python, java,**
 
 - 👨‍💻 All of my projects are available at [sk-mofiz-hossain.netlify.app](https://sk-mofiz-hossain.netlify.app/)
 
