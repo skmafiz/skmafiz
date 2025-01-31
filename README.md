@@ -1,6 +1,6 @@
 ![logo](https://github.com/skmafiz/skmafiz/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm SK MOFIZ HOSSAIN</h1>
-<h3 align="center">Electronics and Tele-Communications Engineer fueled by an unwavering passion for Electronics and Software engineering fields.</h3>
+<h3 align="center">Electronics and Tele-Communications Engineer fueled by an unwavering passion for Electronics and Software engineering fields</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/skmafiz/skmafiz/blob/main/mafiz%20working.gif">
 
