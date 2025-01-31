@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skmafiz&label=Profile%20views&color=0e75b6&style=flat" alt="skmafiz" /> </p>
 
-- 🔭 I’m currently working on [Web Development, Cloud, AI, IoT, Back-end Development,](https://sk-mofiz-hossain.netlify.app/)
+- 🔭 I’m currently working on [IoT Based Cost Effective Drone for Smart Farming](https://sk-mofiz-hossain.netlify.app/)
 
 - 🌱 I’m currently learning **Python, java**
 
