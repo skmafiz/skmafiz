@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [IoT Based Cost Effective Drone for Smart Farming](https://sk-mofiz-hossain.netlify.app/)
 
-- 🌱 I’m currently learning **Python, java**
+- 🌱 I’m currently learning **Python, Java, IoT, Embedded System**
 
 - 👨‍💻 All of my projects are available at [sk-mofiz-hossain.netlify.app](https://sk-mofiz-hossain.netlify.app/)
 
